@@ -1,0 +1,3 @@
+.env
+.csm_setup_*
+node_modules
